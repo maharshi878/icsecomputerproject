@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BankAccountEncapsulation
+comment1.params=
+comment1.target=void\ input()
+comment2.params=amt
+comment2.target=void\ deposit(double)
+comment3.params=amt
+comment3.target=void\ withdraw(double)
+comment4.params=
+comment4.target=void\ display()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

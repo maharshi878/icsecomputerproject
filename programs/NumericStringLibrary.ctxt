@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=NumericStringLibrary
+comment1.params=n
+comment1.target=int\ square(int)
+comment2.params=c
+comment2.target=void\ checkChar(char)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

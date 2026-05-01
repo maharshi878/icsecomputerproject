@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MenuNumberChecks
+comment1.params=n
+comment1.target=int\ factorial(int)
+comment2.params=n
+comment2.target=boolean\ isKrishnamurthy(int)
+comment3.params=n
+comment3.target=boolean\ isBuzz(int)
+comment4.params=n
+comment4.target=boolean\ isPalindrome(int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

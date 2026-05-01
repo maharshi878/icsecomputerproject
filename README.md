@@ -34,8 +34,6 @@ A complete guide for preparing and submitting the ICSE Standard X Computer Appli
 | Back Cover | Blue plastic sheet |
 | Spiral / Spring Color | **White only** |
 
-> ⚠️ Before final binding, **show the complete project to the teacher for approval**.
-
 ---
 
 ## 🖥️ Program Presentation
@@ -67,11 +65,11 @@ For **each program**, follow this exact sequence:
 
 ## 🖨️ Output Requirements
 
-- Output must be **computer-printed only** (no handwritten outputs).
+- Output must be **printed only** (no handwritten outputs).
 - **Give a border** to each printed output/screenshot.
 - In **BlueJ**, set the project name using the format:
   ```
-  Std_XA_Rollnum_1_2026_27
+  Std_XA/B_Rollnum_1_2026_27
   ```
   *(Replace `Rollnum` with your actual roll number.)*
 - Each program's output should be printed on a **separate single page**.

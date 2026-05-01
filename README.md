@@ -1,106 +1,225 @@
-# ICSE Std. X – Computer Applications Project (Java Programs)
+# ICSE Class X – Computer Applications Java Project (2026–27)
 
-A complete guide for preparing and submitting the ICSE Standard X Computer Applications project file.
+A complete set of **ICSE Standard X Computer Applications programs written in Java**, organized for use in **BlueJ** and easy sharing through **GitHub**.
 
----
+This repository contains **20 Java programs** covering the topics required for the ICSE Class X project work.
 
-## 📋 Table of Contents
+The code is structured so that students can:
 
-1. [Writing Format](#writing-format)
-2. [Project File & Binding](#project-file--binding)
-3. [Program Presentation](#program-presentation)
-4. [Source Code Writing Rules](#source-code-writing-rules)
-5. [Output Requirements](#output-requirements)
-6. [Important Instructions](#important-instructions)
-7. [Project File Arrangement](#project-file-arrangement)
+* Open the project directly in **BlueJ**
+* Compile and run each program
+* Generate **terminal outputs for printing**
+* Copy the code into their **handwritten project files**
 
 ---
 
-## ✍️ Writing Format
+# Project Structure
 
-- Use **one-side ruled pages only**.
-- Writing must be **neat, clean, and legible**.
-- Maintain **proper margins** on each page.
-- **Avoid overwriting and cutting** at all times.
+```
+ICSE_ClassX_Java_Project/
+│
+├── PatternProgram1.java
+├── PatternProgram2.java
+├── MenuNumberChecks.java
+├── SeriesMenu.java
+│
+├── YoungestAge.java
+├── SalaryCalculator.java
+├── AreaOverload.java
+├── SimpleInterestOverload.java
+│
+├── StudentConstructor.java
+├── BankAccountConstructor.java
+│
+├── NumericStringLibrary.java
+├── SentenceNumberSum.java
+│
+├── StudentEncapsulation.java
+├── BankAccountEncapsulation.java
+│
+├── ReverseArray.java
+├── ArrayStats.java
+├── StudentSearch.java
+├── SelectionSortArray.java
+│
+├── ReplaceVowels.java
+├── AnagramCheck.java
+│
+└── README.md
+```
+
+Each `.java` file represents **one program from the ICSE project syllabus**.
 
 ---
 
-## 📁 Project File & Binding
+# Topics Covered
 
-| Item | Requirement |
-|------|-------------|
-| Binding Type | Spiral bound |
-| Front Cover | Transparent white plastic sheet |
-| Back Cover | Blue plastic sheet |
-| Spiral / Spring Color | **White only** |
+The programs are organized according to the official project sections.
+
+### 1️⃣ Pattern Programs
+
+* PatternProgram1 – Star pattern using nested loops
+* PatternProgram2 – Hollow number pattern
+
+### 2️⃣ Switch Case Programs
+
+* MenuNumberChecks – Check:
+
+  * Krishnamurthy Number
+  * Buzz Number
+  * Palindrome Number
+* SeriesMenu – Menu-driven series program
+
+### 3️⃣ User Defined Methods / Polymorphism
+
+* YoungestAge – Find youngest among three
+* SalaryCalculator – Salary calculation using conditions
+* AreaOverload – Function overloading for area calculation
+* SimpleInterestOverload – Overloaded interest calculation
+
+### 4️⃣ Constructor Programs
+
+* StudentConstructor – Initialize student data using constructor
+* BankAccountConstructor – Multiple constructors with interest
+
+### 5️⃣ Library Class Programs
+
+* NumericStringLibrary – Wrapper class + character checks
+* SentenceNumberSum – Extract numbers from sentence
+
+### 6️⃣ Encapsulation
+
+* StudentEncapsulation – Private variables + grade calculation
+* BankAccountEncapsulation – Bank account operations
+
+### 7️⃣ Array Programs
+
+* ReverseArray – Reverse order printing
+* ArrayStats – Largest, smallest, and sum
+* StudentSearch – Linear search in string array
+* SelectionSortArray – Sorting using selection sort
+
+### 8️⃣ String Handling
+
+* ReplaceVowels – Replace vowels with `*`
+* AnagramCheck – Check if two strings are anagrams
 
 ---
 
-## 🖥️ Program Presentation
+# Running the Programs in BlueJ
 
-For **each program**, follow this exact sequence:
+1. Install **BlueJ**
+   https://www.bluej.org
+
+2. Download or clone this repository.
+
+3. Open **BlueJ**
+
+4. Click:
+
+```
+Project → Open Project
+```
+
+5. Select the folder containing the `.java` files.
+
+6. Compile and run any class.
+
+Example:
+
+```
+Right Click Class → void main(String[] args)
+```
+
+The output will appear in the **BlueJ Terminal Window**.
+
+---
+
+# Using This for Your ICSE Project File
+
+According to ICSE project rules:
+
+Each program must include:
 
 1. **Program Title**
-2. **Source Code** (with comment lines and variable box)
-3. **Output** (printed)
+2. **Source Code (Handwritten)**
+3. **Variable Description Box**
+4. **Printed Output**
+
+Typical variable table format:
+
+| Variable Name | Data Type | Description           |
+| ------------- | --------- | --------------------- |
+| i             | int       | Loop control variable |
+| j             | int       | Column counter        |
+
+⚠️ **Important:**
+Source code must be **written by hand** in the project notebook.
+
+Only the **program output should be printed** from BlueJ.
 
 ---
 
-## 📝 Source Code Writing Rules
+# Naming Convention (BlueJ Project)
 
-- All programs must be **handwritten** — no printouts of source code are allowed.
-- Maintain **proper indentation and formatting** throughout.
-- Write **comments using a pen** explaining the logic of each section.
-- Draw a **Variable Table (Variable Box)** neatly for every program, including:
+Your teacher may require the project name format:
 
-| Column | Description |
-|--------|-------------|
-| Variable Name | The name used in the program |
-| Data Type | The Java data type (e.g., `int`, `String`, `double`) |
-| Purpose / Description | What the variable stores or represents |
+```
+Std_XA/B_Rollnum_1_2026_27
+```
 
-- Ensure the code is written in a **clear and systematic sequence**.
+Example:
 
----
-
-## 🖨️ Output Requirements
-
-- Output must be **printed only** (no handwritten outputs).
-- **Give a border** to each printed output/screenshot.
-- In **BlueJ**, set the project name using the format:
-  ```
-  Std_XA/B_Rollnum_1_2026_27
-  ```
-  *(Replace `Rollnum` with your actual roll number.)*
-- Each program's output should be printed on a **separate single page**.
-- **Attach the output page immediately after** the corresponding program's source code.
-- **All programs must have output** — missing outputs are not allowed.
-- For programs that require multiple condition checks, **all condition outputs** can be printed on a **single page**.
+```
+Std_XA_12_1_2026_27
+```
 
 ---
 
-## ⚠️ Important Instructions
+# Requirements
 
-- Follow **all instructions strictly**.
-- Maintain **consistency and order** throughout the project.
-- **Incomplete or improperly formatted projects may be rejected or penalized.**
-
----
-
-## 🗂️ Project File Arrangement
-
-Organize your project file in the following order:
-
-| # | Section |
-|---|---------|
-| 1 | **Title Page** |
-| 2 | **Acknowledgement** |
-| 3 | **Index** |
-| 4 | **Introduction** |
-| 5 | **Programs** (Source Code + Output for each program) |
-| 6 | **Conclusion** |
-| 7 | **Bibliography** |
+* Java JDK 8 or higher
+* BlueJ IDE
 
 ---
 
-*Prepared for ICSE Standard X – Computer Applications (2026–27)*
+# Educational Purpose
+
+This repository is created to help **ICSE Class X students understand Java programming concepts**, including:
+
+* Loops
+* Switch case
+* Methods
+* Function overloading
+* Constructors
+* Encapsulation
+* Arrays
+* String manipulation
+* Wrapper classes
+
+---
+
+# Contributing
+
+This project is mainly intended as a **study reference for ICSE students**.
+
+If you want to improve the code:
+
+* Add comments explaining logic
+* Improve variable naming
+* Add sample outputs
+* Suggest alternative approaches
+
+---
+
+# License
+
+This project is shared **for educational use only**.
+
+Students are encouraged to **understand the logic and write the programs themselves** rather than copying blindly.
+
+---
+
+# Acknowledgement
+
+Created as part of the **ICSE Class X Computer Applications Project (2026–27)** to assist students in preparing their practical project work.
